@@ -1,7 +1,7 @@
 # Digit-Recognizer
 kaggle competition : https://www.kaggle.com/competitions/digit-recognizer/data
 
-this is my jupyter nootbook to craet model to Recognize Digit.
+this is my jupyter nootbook to create model to Recognize Digit.
 
 my steps
 1. load csv file from this competition.
